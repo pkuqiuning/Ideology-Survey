@@ -8,4 +8,6 @@ Use 2014data_recode.R and add_geoip_data.py to process the data
 
 The final result can be obtained here: https://dl.dropboxusercontent.com/u/17491620/2014data_clean_geoip.csv
 
-Use basic_mining.ipynb to check the geoip results make sense
+Use basic_mining.ipynb to check the geoip results make sense:
+http://nbviewer.ipython.org/github/pkuqiuning/Ideology-Survey/blob/master/basic_mining.ipynb
+
