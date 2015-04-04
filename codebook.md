@@ -80,6 +80,9 @@ sex                  | 51 | 性别
 birthyear            | 52 | 出生年份
 income               | 53 | 年收入
 education            | 54 | 学历
+id                   | -  | 编号
+time                 | -  | 问卷提交时间
+ip                   | -  | 问卷提交IP地址
 country              | -  | 国家
 province             | -  | 省份
 city                 | -  | 城市
