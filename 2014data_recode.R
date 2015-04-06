@@ -1,4 +1,4 @@
-setwd("this is where you put the data file")
+#setwd("this is where you put the data file")
 data<- read.csv("2014data.csv", stringsAsFactors=FALSE)
 library(reshape)
 library(car)
